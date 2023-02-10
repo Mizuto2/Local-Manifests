@@ -9,10 +9,11 @@
    
       <!-- device trees -->  
       
-        <project path="device/realme/RMX2020" name="rice_device_realme_RMX2020" remote="Ling" revision="arrow-13.0" />
+        <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="Ling" revision="tiramisu" />
         <project path="vendor/realme/RMX2020" name="android_vendor_realme_RMX2020" remote="Ling" revision="arrow-13.0" />
         <project path="vendor/realme/RMX2020-ims" name="android_vendor_realme_RMX2020-ims" remote="Ling" revision="arrow-13.0" />
         <project path="kernel/realme/RMX2020" name="android_kernel_realme_RMX2020" remote="Ling" revision="arrow-13.0" clone-depth="1" />
         <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="Ling" revision="arrow-13.0" />
 
 </manifest>
+ifest>

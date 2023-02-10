@@ -2,11 +2,13 @@
 
 <manifest>
 
-      <remote name="ricedroidOSS"
-                fetch="https://github.com/ricedroidOSS" />
+    <!-- Nukes -->
 
-      <remote name="LineageOS"
-                fetch="https://github.com/LineageOS" />    
+        <remove-project name="android_frameworks_native" />
+        <remove-project name="android_packages_modules_Wifi" />
+ 
+</manifest>
+thub.com/LineageOS" />    
 
     <!-- Nukes -->
 
