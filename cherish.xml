@@ -9,8 +9,7 @@
 
         <!-- Replacement -->
 
-         <project path="frameworks/native" name="rice_frameworks_native" remote="Ling" revision="thirteen" />
-         <project path="packages/modules/Wifi" name="rice_packages_modules_Wifi" remote="Ling" revision="thirteen" />
-         <project path="vendor/lineage" name="rice_vendor_rice" remote="Ling" revision="thirteen" />
-     
+         <project path="frameworks/native" name="cherish_frameworks_native" remote="Ling" revision="tiramisu" />
+         <project path="packages/modules/Wifi" name="cherish_packages_modules_Wifi" remote="Ling" revision="tiramisu" />
+
 </manifest>
