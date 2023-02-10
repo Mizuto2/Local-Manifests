@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+        
+        <!-- fetching sources -->      
+
+        <remote name="Ling"
+                fetch="https://github.com/CyanFinchLing" />
+
+        <!-- Replacement -->
+
+         <project path="frameworks/native" name="rice_frameworks_native" remote="Ling" revision="thirteen" />
+         <project path="packages/modules/Wifi" name="rice_packages_modules_Wifi" remote="Ling" revision="thirteen" />
+         <project path="vendor/lineage" name="rice_vendor_rice" remote="Ling" revision="thirteen" />
+     
+</manifest>

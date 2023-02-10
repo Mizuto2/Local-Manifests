@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+      <remote name="ricedroidOSS"
+                fetch="https://github.com/ricedroidOSS" />
+
+      <remote name="LineageOS"
+                fetch="https://github.com/LineageOS" />    
+
+    <!-- Nukes -->
+
+        <remove-project name="ricedroidOSS/android_frameworks_native" />
+        <remove-project name="ricedroidOSS/android_packages_modules_Wifi" />
+        <remove-project name="ricedroidOSS/android_vendor_rice" />
+ 
+</manifest>
