@@ -8,12 +8,3 @@
         <remove-project name="android_packages_modules_Wifi" />
  
 </manifest>
-thub.com/LineageOS" />    
-
-    <!-- Nukes -->
-
-        <remove-project name="ricedroidOSS/android_frameworks_native" />
-        <remove-project name="ricedroidOSS/android_packages_modules_Wifi" />
-        <remove-project name="ricedroidOSS/android_vendor_rice" />
- 
-</manifest>

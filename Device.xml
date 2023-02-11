@@ -16,4 +16,3 @@
         <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="Ling" revision="arrow-13.0" />
 
 </manifest>
-ifest>
